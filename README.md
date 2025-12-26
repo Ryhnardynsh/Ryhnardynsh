@@ -61,5 +61,5 @@ I am an **Aspiring Penetration Tester** and **Python Security Specialist** on a 
 
 ### 📬 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/rayhan-ardiansyah-b3008b364?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-- 🧪 [TryHackMe Profile](https://tryhackme.com/p/rayhanardiansyah)
+- 🧪 [TryHackMe Profile](https://tryhackme.com/p/ryhnardynsh)
 - 📸 .[Instagram](https://www.instagram.com/ryhnardynsh_?igsh=MXF5ZTYyam54aGtieg==)
