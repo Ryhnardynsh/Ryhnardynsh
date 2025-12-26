@@ -1,16 +1,38 @@
-## Hi there 👋
+# 🛡️ Hi, I'm Ryhnardynsh | Cybersecurity & Automation Specialist
 
-<!--
-**Ryhnardynsh/Ryhnardynsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ⚡ My Mission
+I am an **Aspiring Penetration Tester** and **Python Security Specialist** on a structured 4-phase roadmap to secure a **$100k remote role by 2027**. I focus on building high-performance automation tools to identify and exploit vulnerabilities.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ The Digital Arsenal
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212c42?style=for-the-badge&logo=tryhackme&logoColor=red)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📈 Phase 1 Progress: Foundations (Now – March 2026)
+- [ ] **Networking:** Complete THM Pre-Security Path.
+- [ ] **Linux Mastery:** Clear OverTheWire Bandit Level 15.
+- [ ] **Python Tools:** Build & push 3 security automation scripts.
+- [ ] **Certification:** Earn the Junior Penetration Tester (eJPT) or similar.
+
+---
+
+### 💻 Featured Security Tools
+* **[DirBrute v1.0](#)** - A high-speed Python directory brute-forcer.
+* **[PortScan v1.0](#)** - Lightweight multi-threaded port scanner.
+
+---
+
+### 📊 GitHub Stats
+![Ryhnardynsh's Stats](https://github-readme-stats.vercel.app/api?username=Ryhnardynsh&show_icons=true&theme=radical)
+
+---
+
+### 📬 Connect With Me
+- 💼 [LinkedIn](YOUR_LINK_HERE)
+- 🧪 [TryHackMe Profile](YOUR_LINK_HERE)
