@@ -1,7 +1,7 @@
 # 🛡️ Hi, I'm Rayhan Ardiansyah | Cybersecurity & Automation Specialist
 
 ### 👨‍💻 About Me
-I am Rayhan Ardiansyah, a security-focused researcher and developer based in Yogyakarta. I specialize in the intersection of offensive security and automation, where I build custom tools to identify and exploit vulnerabilities at scale. My philosophy is simple: understand how to build systems deeply so you can break them effectively.
+My name is Rayhan Ardiansyah, a security-focused researcher and developer based in Indonesia. I specialize in the intersection of offensive security and automation, where I build custom tools to identify and exploit vulnerabilities at scale. My philosophy is simple: understand how to build systems deeply so you can break them effectively.
 
 ### ⚡ My Mission
 I am an **Aspiring Penetration Tester** and **Python Security Specialist** on a structured 4-phase roadmap to secure a **$100k remote role by 2027**. I focus on building high-performance automation tools to identify and exploit vulnerabilities.
