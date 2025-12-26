@@ -38,9 +38,9 @@ I am an **Aspiring Penetration Tester** and **Python Security Specialist** on a 
 
 ---
 
-### 💀 Phase 3: The $50,000 Sprint (Oct – Dec 2026)
+### 💀 Phase 3: The $10,000 Sprint (Oct – Dec 2026)
 **Goal:** Pass the OSCP and hunt for "Critical" P1/P2 vulnerabilities.
-**Target:** Accumulate $50,000 in savings from high-payout private bounties.
+**Target:** Accumulate $10,000 in savings from high-payout private bounties.
 
 - [ ] **OSCP Grind:** 3.5 hours/day of dedicated machine hacking (PEN-200).
 - [ ] **High-Tier Hunt:** Identify RCE, SQLi, and SSRF in private programs.
