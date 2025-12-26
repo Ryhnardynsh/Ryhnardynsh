@@ -17,7 +17,7 @@ I am an **Aspiring Penetration Tester** and **Python Security Specialist** on a 
 
 ---
 
-### 📈 Phase 1: Foundations (Now – March 2026)
+### 📈 Phase 1: Foundations (Dec 2025 – March 2026)
 **Goal:** Master terminal environments, network protocols, and Python security basics.
 **Target:** Clear OverTheWire Bandit Lvl 15 and complete the THM Pre-Security path.
 
