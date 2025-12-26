@@ -18,13 +18,6 @@ I am an **Aspiring Penetration Tester** and **Python Security Specialist** on a 
 - [ ] **Networking:** Complete THM Pre-Security Path.
 - [ ] **Linux Mastery:** Clear OverTheWire Bandit Level 15.
 - [ ] **Python Tools:** Build & push 3 security automation scripts.
-- [ ] **Certification:** Earn the Junior Penetration Tester (eJPT) or similar.
-
----
-
-### 💻 Featured Security Tools
-* **[DirBrute v1.0](#)** - A high-speed Python directory brute-forcer.
-* **[PortScan v1.0](#)** - Lightweight multi-threaded port scanner.
 
 ---
 
@@ -34,5 +27,5 @@ I am an **Aspiring Penetration Tester** and **Python Security Specialist** on a 
 ---
 
 ### 📬 Connect With Me
-- 💼 [LinkedIn](YOUR_LINK_HERE)
-- 🧪 [TryHackMe Profile](YOUR_LINK_HERE)
+- 💼 [LinkedIn](https://www.linkedin.com/in/rayhan-ardiansyah-b3008b364?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- 🧪 [TryHackMe Profile](https://tryhackme.com/p/rayhanardiansyah)
